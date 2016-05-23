@@ -1,8 +1,1 @@
 
-Ini hanya sekedar percobaan untuk tutorial.
-
-Nama        : Andre Oktora
-Nim         : 11353102518
-Jurusan     : Sistem Informasi (http://sif.uin-suska.ac.id/)
-Fakultas    : Sains dan Teknologi (http://fst.uin-suska.ac.id/)
-Universitas Islam Negeri Sultan Syarif Kasim Riau (http://uin-suska.ac.id/)
