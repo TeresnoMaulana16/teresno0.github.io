@@ -4,5 +4,10 @@ title:  "Belajar Jekyll"
 date:   2015-07-27 14:58:10
 categories: jekyll update
 ---
+Ini hanya sekedar percobaan untuk tutorial.
 
-test
+Nama        : Andre Oktora
+Nim         : 11353102518
+Jurusan     : Sistem Informasi (http://sif.uin-suska.ac.id/)
+Fakultas    : Sains dan Teknologi (http://fst.uin-suska.ac.id/)
+Universitas Islam Negeri Sultan Syarif Kasim Riau (http://uin-suska.ac.id/)
